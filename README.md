@@ -5,7 +5,7 @@ welcome to project Redo. this project is dedicated to have you be the better ver
 - Step 2. Clone this project in your chosen IDE. 
 - Step 3. Create a new branch. it will be used to push your changes
 - Step 4. Update ReadMe.md file by adding the following at the end of this text:
-  `DD/MM/YYYY-discordName-ST was here!`
+  `01/02/2025-fm__official-ST was here!`
 - Step 4b. Change DD/MM/YYYY-discordName-ST with the date and your discord name  (This should go without saying, so take this as your warning.)
 - Step 5. Commit and Push your changes
 - Step 6. Ping me on discord 
